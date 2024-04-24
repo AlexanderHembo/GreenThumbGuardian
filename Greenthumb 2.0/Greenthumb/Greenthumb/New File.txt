@@ -1,0 +1,10 @@
+Hello, this is a test.
+The quick brown fox jumps over the lazy dog.
+Sample text data for file writing.
+C++ file I/O is straightforward.
+End of the test data set.
+Hello, this is a test.
+The quick brown fox jumps over the lazy dog.
+Sample text data for file writing.
+C++ file I/O is straightforward.
+End of the test data set.
